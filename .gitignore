@@ -1,9 +1,6 @@
 # Idea
 .idea/*
 
-# Mac OS
-.DS_Store
-
 # Byte-compiled / optimized / DLL files
 *.manifest
 *.spec
@@ -34,3 +31,6 @@ jekyll-theme-type-on-strap.gemspec
 *copy.md
 test/*
 /type-on-strap*/*
+
+# RStudio
+.Rhistory
