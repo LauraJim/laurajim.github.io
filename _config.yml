@@ -6,7 +6,7 @@ url: "https://laurajim.github.io"
 title: Laura Jimenez       # site's title
 description: "Quantitative modeling for ecology"      # used by search engines
 avatar: assets/img/normal-confidence-curve.png     # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/noun_Origami_4322285.png                           # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
