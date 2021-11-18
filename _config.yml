@@ -10,7 +10,7 @@ favicon: assets/noun_Origami_4322285.png                           # Icon displa
 
 # Header and footer text
 header_text: Learning the art of mathematical modeling for ecology  # Change Blog header text
-header_feature_image: assets/img/pexels/palmeras.jpg
+header_feature_image: assets/img/hawaii/palmeras.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
