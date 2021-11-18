@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/viajes/nopales.jpg"
 tags: [Page]
 ---
 

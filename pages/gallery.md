@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallery
-subtitle: Photos taken by me
+title: Aloha
+subtitle: Life in Oahu
 permalink: /gallery/
 gallery_path: "assets/img/hawaii"
 tags: [Page]
