@@ -12,7 +12,9 @@ I was born and raised in Central Mexico where I was trained as a mathematician a
 
 I am a postdoc at the University of Hawai'i at Manoa where I work under the supervision of [Jake Ferguson](https://www.jakeferguson.info/) on the statistical validation of sampling designs that account for imperfect detection of individuals to determine if these survey methods yield reliable estimates of population distribution and density.
 
-I have broad research experience in statistical ecology and mathematical modeling for biology. 
+I have broad research experience in statistical ecology and mathematical modeling for biology. You can read more about my research project at the [Research](https://laurajim.github.io/research/) section, which includes a list of [my publications](https://laurajim.github.io/research/project0-publication-list).
 
-Besides doing science, I love folding paper and creating beautiful geometric shapes of modular origami. I also like dancing and exploring nature.
+I enjoy teaching and participating in outreach activities, activities that I've been practicing since I was an undergraduate student. Check out [my blog](https://laurajim.github.io/) to learn more about this,
+
+Besides doing science, I love folding paper and creating beautiful geometric shapes of modular origami (check out [this gallery](https://laurajim.github.io/origami/) and my blog posts). I also like dancing and exploring nature.
  
