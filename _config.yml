@@ -5,7 +5,7 @@ url: "https://laurajim.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Laura Jimenez       # site's title
 description: "Quant-modeling for ecology"      # used by search engines
-avatar: assets/img/normal-confidence-curves.png     # Empty for no avatar in navbar
+avatar: assets/img/icon-resized.jpg     # Empty for no avatar in navbar
 favicon: assets/noun_Origami_4322285.png                           # Icon displayed in the tab
 
 # Header and footer text
