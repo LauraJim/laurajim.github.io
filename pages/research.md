@@ -2,7 +2,7 @@
 layout: page
 title : Research
 permalink: /research/
-subtitle: "Projects I am working on" 
+subtitle: "Publications and research projects" 
 feature-img: "assets/img/origami/green-pieces.jpg"
 tags: [Page]
 ---
