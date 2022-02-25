@@ -7,7 +7,7 @@ date: 2022-01-10
 tags: [ENM, SDM]
 ---
 
-* Machado-Stredel, F., Freeman, B., Jiménez-García, D., Cobos, M.E., Nuñez-Penichet, C., **Jiménez, L.**, Komp, E., Perktas, U., Khalighifar, A., Ingenloff, K., Tapondjou, W., de Silva, T., Fernando, S., Osorio-Olvera, L., Peterson, A.T. (*In press*). On the potential of documenting decadal-scale avifaunal change from before-and-after comparisons of museum and observational data across North America. **Avian Research**.
+* Machado-Stredel, F., Freeman, B., Jiménez-García, D., Cobos, M.E., Nuñez-Penichet, C., **Jiménez, L.**, Komp, E., Perktas, U., Khalighifar, A., Ingenloff, K., Tapondjou, W., de Silva, T., Fernando, S., Osorio-Olvera, L., Peterson, A.T. (*2022*). On the potential of documenting decadal-scale avifaunal change from before-and-after comparisons of museum and observational data across North America. **Avian Research**, 13(1), 100005.
 
 * **Jiménez, L.**, and Soberón, J. (*2022*). [Estimating the fundamental niche: Accounting for the uneven availability of existing climates in the calibration area](https://doi.org/10.1016/j.ecolmodel.2021.109823). **Ecological Modelling**, 464, 109823.
 
